@@ -1,0 +1,2 @@
+## Sort Algorithms with Threads - Threads ile Sıralama Algoritmaları
+Kodda, QuickSort, MergeSort ve dizi elemanlarının toplamını hesaplamak için SumTask sınıfları kullanılarak paralel işleme yapılmıştır. Bu sınıflar, Java'nın ForkJoinPool çerçevesi ile iş parçacıklarını yönetir ve işlemleri paralel olarak yürütür. Ayrıca, Comparable arayüzü kullanılarak nesnelerin karşılaştırılabilirliği sağlanmıştır.
